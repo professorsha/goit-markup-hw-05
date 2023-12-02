@@ -336,7 +336,6 @@ img {
   background-color: #2e2f42;
   color: #f4f4fd;
   font-size: 16px;
-  /* font-weight: 400; */
   line-height: 1.5;
   padding: 100px 0;
 }
@@ -411,7 +410,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
   min-width: 165px;
   border-radius: 4px;
   border: none;
